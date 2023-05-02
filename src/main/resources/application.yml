@@ -1,0 +1,9 @@
+springdoc:
+  meta:
+    title: "Domain Service API"
+    description: "??? ??? API"
+    version: "v1"
+  swagger-ui:
+    use-root-path: true
+    path: "/swagger-ui.html"
+  show-actuator: true
